@@ -6,9 +6,9 @@
 <Br>
   <!-- ABOUT Me -->
 <hr>
-<h3 align="center">I love to code, create things, solve problems and take on challenges</h3>
+<h3 align="center">Sobre mi</h3>
   <p>
-   Desarrollador web junior 🖥️, apacionado por el mundo de las tecnologias y los videojuegos. Me apasiona la idea de crear soluciones que unan diseño y funcionalidad. Hace poco terminé mis estudios de Desarrollo de Aplicaciones Web, donde conseguí base en programación y desarrollo full stack con tecnologias como PHP, JavaScript y MySQL🐘.
+   Desarrollador web junior 🖥️, apasionado por el mundo de las tecnologias y los videojuegos. Me apasiona la idea de crear soluciones que unan diseño y funcionalidad. Hace poco terminé mis estudios de Desarrollo de Aplicaciones Web, donde conseguí base en programación y desarrollo full stack con tecnologias como PHP, JavaScript y MySQL🐘.
   </p>
 
 <!-- CONNECTION -->
